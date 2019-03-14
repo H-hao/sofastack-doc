@@ -31,4 +31,4 @@ SOFARPC 定位在 RPC 框架，和 Spring Cloud 的比较不在一个对比维�
 
 ## 研发类
 ### Q: 为什么不使用 JDK8
-SOFARPC 在蚂蚁金服内部还有JDK6的使用场景，所以编译选择JDK7，而编译级别选择JDK6。
+SOFARPC 在蚂蚁金服内部还有JDK6的使用场景，所以编译选择JDK7，而运行选择JDK6。
